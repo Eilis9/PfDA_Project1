@@ -18,7 +18,9 @@ Electricity usage for a home v weather (sunshine/time of year etc) - use unit us
 Wind/storm events v geographic location - may be rayleigh distributed here. Perhaps look at buoy data from met.ie and see what relationships are.
 
 Task 1 - investigate above and see what would be interesting to use
+        - have downloaded Athenry met.ie observation station data - hourly (which is the smallest discretisation)
 Task 2 - do some plotting of the real world data and see what distributions are for chosen phenomena (research what the distribution is). 
+        - plan to take 1 year and plot this for some of the variables
 Task 3 - decide on variables to synthesise and implement numpy random distributions as appropriate
 Task 4 - Plot data
 
