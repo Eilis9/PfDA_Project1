@@ -24,3 +24,6 @@ Task 2 - do some plotting of the real world data and see what distributions are 
 Task 3 - decide on variables to synthesise and implement numpy random distributions as appropriate
 Task 4 - Plot data
 
+
+
+Update: there aren't high correlation values between the parameters - the highest is rainfall v pressure.  Because rainfall is an exponential distribution, it's more meaningful to plot linear regression between the log of rainfall and pressure. It's obvious that there is a very high degree of spread with the data but at least an attempt can be made to generate random data based on the correlation and perhaps random data based on the distribution alone but season based.
