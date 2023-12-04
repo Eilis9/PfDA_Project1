@@ -20,5 +20,5 @@ Software Used:
 The analysis for the project is in met_athenry.ipynb. All commentary and references are given in this Jupyter Notebook. 
 
 How to run:
-The Jupyter Notebook (met_athenry.ipynb) should be downloaded along with the /img and /data folder and run locally.
+The Jupyter Notebook (met_athenry.ipynb) should be downloaded along with the /img and /data folder and run locally in Jupyter notebook version 6.5.2.
  - - -
